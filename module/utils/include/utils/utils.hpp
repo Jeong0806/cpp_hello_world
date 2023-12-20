@@ -5,4 +5,3 @@
 void Print(const std::string& message);
 
 #endif
-
